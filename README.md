@@ -3,7 +3,9 @@
 My Name is Jervie, and I am a jr. .Net developer and I'm interested on diving more deeply about .Net Ecosystem!
 
 🌱 I’m currently learning C#, ASP NET CORE, T SQL, EF CORE, WEB API
+
 🔭 I’m currently working on Console Bank System
+
 📫 How to reach me: https://www.linkedin.com/in/jervie-gono/
 <!--
 **Kyzer0/Kyzer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
