@@ -1,21 +1,45 @@
+Jervie - C# Projects
+Welcome to My GitHub Profile!
+Hey there! Welcome to my GitHub profile. I'm Jervie, a passionate Back-End Developer specializing in C# projects.
 
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@jerviegono) 
+logo
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jervie - C# Projects&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jervie - C# Projects&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jervie - C# Projects&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+A Brief Introduction
+As a self-motivated developer, I constantly strive to expand my knowledge and skills to deliver high-quality solutions. With a primary focus on server-side programming, I enjoy building robust and scalable applications.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jervie - C# Projects&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+Skills
+Here's a quick rundown of my technical skill set:
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jervie - C# Projects&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Programming Languages: C#, HTML, CSS
+Frameworks and Libraries: .NET Core, ASP.NET Core, .NET Core MVC
+Databases: Microsoft SQL Server, MySQL
+Version Control: Git
+Other Tools: Visual Studio, Visual Studio Code, Postman
+My Projects
+I'm delighted to share some of my notable projects with you:
 
----
-[![](https://visitcount.itsvg.in/api?id=Jervie - C# Projects&icon=0&color=0)](https://visitcount.itsvg.in)
+CalculatorConsole
+CalculatorConsole
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+CalculatorConsole is a command-line application built using C#. It allows users to perform basic mathematical operations, such as addition, subtraction, multiplication, and division. This project showcases my understanding of C# and demonstrates my ability to develop functional applications.
+
+GitHub Statistics
+Let's dive into some interesting statistics about my GitHub activity:
+
+Github StatsTop Languages
+
+Contributions
+Aside from my personal projects, I've contributed to open-source projects. One notable contribution is to the repository "smurzzz/Class-Attendance-" where I submitted a pull request titled "Create init.py".
+
+Get In Touch
+Would you like to collaborate or simply have a chat about coding or technology? Feel free to reach out to me:
+
+Email: jervie@example.com
+LinkedIn: Jervie
+Personal Website: jervie.com
+I'm open to exciting opportunities and engaging discussions. Looking forward to connecting with you!
+
+Conclusion
+Thank you for visiting my GitHub profile and taking the time to learn about my coding journey! Although I'm relatively new to GitHub, I'm enthusiastic about coding projects and enjoy working with C#. With a focus on back-end development, I strive to create robust solutions that meet customer needs.
+
+Don't forget to check out my GitHub profile here and explore my notable project CalculatorConsole.
